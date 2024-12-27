@@ -27,6 +27,10 @@ class BitBoard:
     
 
 
+    def place_piece(self, other_board) -> bool:
+        return self.value & other_board.value != 0
+
+
     def __repr__ (self) -> str:
         string_board = format(self.value, '064b')
         boarder = "+---+---+---+---+---+---+---+---+\n"
