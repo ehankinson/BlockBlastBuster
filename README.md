@@ -16,14 +16,14 @@ read in the piece
 - t_left CHECK
 - t_right CHECK
 
-- horizontal 2 - Ethan 
-- horizontal 3 - Ethan
-- horizontal 4 - Ethan
-- horizontal 5 - Ethan
-- vertical 2 - Ethan
-- vertical 3 - Ethan
-- vertical 4 - Ethan
-- vertical 5 - Ethan
+- horizontal 2 - Ethan Done & DOUBLE CHECKED
+- horizontal 3 - Ethan Done & DOUBLE CHECKED
+- horizontal 4 - Ethan Done & DOUBLE CHECKED
+- horizontal 5 - Ethan Done & DOUBLE CHECKED 
+- vertical 2 - Ethan Done & DOUBLE CHECKED
+- vertical 3 - Ethan Done & DOUBLE CHECKED
+- vertical 4 - Ethan Done & DOUBLE CHECKED
+- vertical 5 - Ethan Done & DOUBLE CHECKED
 - z_left
 - z_right
 - z_up
@@ -45,8 +45,8 @@ read in the piece
 - 3_diagonal right
 - 2_diagonal left
 - 2_diagonal right
-- 2x3 - Ethan
-- 3x2 - Ethan
+- 2x3 - Ethan Ethan Done & DOUBLE CHECKED
+- 3x2 - Ethan Ethan Done & DOUBLE CHECKED
 
 
 ## Step 2:
