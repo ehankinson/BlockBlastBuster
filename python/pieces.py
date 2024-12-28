@@ -51,8 +51,3 @@ with open(f"piece_locations/long_L_bottom_right.pkl", "wb") as p_file:
 #     print(f"key: {key}")
 #     print(moves[key])
 
-
-
-
-
-

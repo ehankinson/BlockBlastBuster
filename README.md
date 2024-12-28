@@ -24,23 +24,23 @@ read in the piece
 - vertical 3 - Ethan Done & DOUBLE CHECKED
 - vertical 4 - Ethan Done & DOUBLE CHECKED
 - vertical 5 - Ethan Done & DOUBLE CHECKED
-- z_left
-- z_right
-- z_up
-- z_down
+- z_left - es
+- z_right - es
+- z_up - es
+- z_down - es
 - single - Ethan Done & DOUBLE CHECKED
 - long_L top_right - Ethan Done & DOUBLE CHECKED
 - long_L top_left - Ethan Done & DOUBLE CHECKED
 - long_L bottom_left 
 - long_L bottom_right
-- lazy_L top_right
-- lazy_L top_left
-- lazy_L bottom_left
-- lazy_L bottom_right
-- short_L top_rigth
-- short_L top_left
-- short_L bottom_rigth
-- short_L bottom_left
+- lazy_L top_right - es
+- lazy_L top_left - es
+- lazy_L bottom_left - es
+- lazy_L bottom_right - es
+- short_L top_rigth - es
+- short_L top_left - es
+- short_L bottom_rigth - es
+- short_L bottom_left - es
 - 3_diagonal left
 - 3_diagonal right
 - 2_diagonal left
