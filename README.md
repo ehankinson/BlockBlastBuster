@@ -28,10 +28,10 @@ read in the piece
 - z_right
 - z_up
 - z_down
-- single
-- long_L top_right
-- long_L top_left
-- long_L bottom_left
+- single - Ethan Done & DOUBLE CHECKED
+- long_L top_right - Ethan Done & DOUBLE CHECKED
+- long_L top_left - Ethan Done & DOUBLE CHECKED
+- long_L bottom_left 
 - long_L bottom_right
 - lazy_L top_right
 - lazy_L top_left

@@ -1,58 +1,58 @@
 import pickle
-# from board import BitBoard
+from board import BitBoard
 
-# values = [17, 16, 9, 8, 1, 0]
-# moves = {}
+values = [16, 8, 0, 2, 1]
+moves = {}
 
-# while values[0] < 64:
-#     adding_set = {}
-#     board_value = 0
+while values[0] < 64:
+    board_value = 0
 
-#     skip = False
-#     for val in values:
-#         accept_value = val % 8
-#         adding_set[accept_value] = adding_set.get(accept_value, 0) + 1
-            
-#         board_value += 2 ** val
+    horizontal = set()
+    vertical = set()
 
-#     sets = set()
-#     for val in adding_set.values():
-#         sets.add(val)
-    
-#     if len(sets) > 1:
-#         skip = True
+    vertical.add(values[0] % 8)
+    vertical.add(values[1] % 8)
+    vertical.add(values[2] % 8)
 
-#     if skip:
-#         for i in range(len(values)):
-#             values[i] = values[i] + 1
-#         continue
+    horizontal.add(values[2] // 8)
+    horizontal.add(values[3] // 8)
+    horizontal.add(values[4] // 8)
 
-#     board = BitBoard(board_value)
-#     print(board)
-#     moves[values[0]] = board
+    if len(horizontal) > 1 or len(vertical) > 1:
+        for i in range(len(values)):
+            values[i] = values[i] + 1
+        continue
 
-#     for i in range(len(values)):
-#         values[i] = values[i] + 1
+    for val in values: 
+        board_value += 2 ** val
 
-# with open(f"piece_locations/3x2.pkl", "wb") as p_file:
-#     pickle.dump(moves, p_file)
+    board = BitBoard(board_value)
+    print(board)
+    moves[values[0]] = board
 
-with open(f"piece_locations/3x2.pkl", "rb") as p_file:
-    moves = pickle.load(p_file)
+    for i in range(len(values)):
+        values[i] = values[i] + 1
 
+with open(f"piece_locations/long_L_bottom_right.pkl", "wb") as p_file:
+    pickle.dump(moves, p_file)
 
-for key in moves:
-    print(f"key: {key}")
-    print(moves[key])
-
-
-
-
-# drops = [56, 48, 40, 32, 24]
+# drops = [63, 62, 55, 54, 47, 46, 39, 38, 31, 30, 23, 22, ]
 
 # for drp in drops:
 #     del moves[drp]
 
-# with open(f"piece_locations/3x2.pkl", "wb") as p_file:
+# with open(f"piece_locations/long_L_top_right.pkl", "wb") as p_file:
 #     pickle.dump(moves, p_file)
+
+# with open(f"piece_locations/long_L_top_right.pkl", "rb") as p_file:
+#     moves = pickle.load(p_file)
+
+# for key in moves:
+#     print(f"key: {key}")
+#     print(moves[key])
+
+
+
+
+
 
