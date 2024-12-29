@@ -24,10 +24,10 @@ read in the piece
 - vertical 3 - Ethan Done & DOUBLE CHECKED
 - vertical 4 - Ethan Done & DOUBLE CHECKED
 - vertical 5 - Ethan Done & DOUBLE CHECKED
-- z_left - es
-- z_right - es
-- z_up - es
-- z_down - es
+- z_left - Ella Done & DOUBLE CHECKED
+- z_right - Ella Done & DOUBLE CHECKED
+- z_up - Ella Done & DOUBLE CHECKED
+- z_down - Ella Done & DOUBLE CHECKED
 - single - Ethan Done & DOUBLE CHECKED
 - long_L top_right - Ethan Done & DOUBLE CHECKED
 - long_L top_left - Ethan Done & DOUBLE CHECKED
