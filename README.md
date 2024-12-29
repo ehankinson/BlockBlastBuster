@@ -33,10 +33,10 @@ read in the piece
 - long_L top_left - Ethan Done & DOUBLE CHECKED
 - long_L bottom_left 
 - long_L bottom_right
-- lazy_L top_right - es
-- lazy_L top_left - es
-- lazy_L bottom_left - es
-- lazy_L bottom_right - es
+- lazy_L top_right - Ella Done & DOUBLE CHECKED
+- lazy_L top_left - Ella Done & DOUBLE CHECKED
+- lazy_L bottom_left - Ella Done & DOUBLE CHECKED
+- lazy_L bottom_right - Ella Done & DOUBLE CHECKED
 - short_L top_rigth - es
 - short_L top_left - es
 - short_L bottom_rigth - es
