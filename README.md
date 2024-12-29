@@ -41,10 +41,10 @@ read in the piece
 - short_L top_left - Ella Done & DOUBLE CHECKED
 - short_L bottom_rigth - Ella Done & DOUBLE CHECKED
 - short_L bottom_left - Ella Done & DOUBLE CHECKED
-- 3_diagonal left
-- 3_diagonal right
-- 2_diagonal left
-- 2_diagonal right
+- 3_diagonal left - Ella Done & DOUBLE CHECKED
+- 3_diagonal right - Ella Done & DOUBLE CHECKED
+- 2_diagonal left - Ella Done & DOUBLE CHECKED
+- 2_diagonal right - Ella Done & DOUBLE CHECKED
 - 2x3 - Ethan Ethan Done & DOUBLE CHECKED
 - 3x2 - Ethan Ethan Done & DOUBLE CHECKED
 
