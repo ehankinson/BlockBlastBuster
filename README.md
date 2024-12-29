@@ -37,10 +37,10 @@ read in the piece
 - lazy_L top_left - Ella Done & DOUBLE CHECKED
 - lazy_L bottom_left - Ella Done & DOUBLE CHECKED
 - lazy_L bottom_right - Ella Done & DOUBLE CHECKED
-- short_L top_rigth - es
-- short_L top_left - es
-- short_L bottom_rigth - es
-- short_L bottom_left - es
+- short_L top_rigth - Ella Done & DOUBLE CHECKED
+- short_L top_left - Ella Done & DOUBLE CHECKED
+- short_L bottom_rigth - Ella Done & DOUBLE CHECKED
+- short_L bottom_left - Ella Done & DOUBLE CHECKED
 - 3_diagonal left
 - 3_diagonal right
 - 2_diagonal left
